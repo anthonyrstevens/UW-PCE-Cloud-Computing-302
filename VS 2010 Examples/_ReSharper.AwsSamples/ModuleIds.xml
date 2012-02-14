@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="4438E75B-0F06-4820-AAB3-D0006516E852" ModuleId="SimpleDbSample1" />
+  <Module PersistentId="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43" ModuleId="AwsUtilsTests" />
+  <Module PersistentId="5B178F15-B9A0-4810-96D7-16012A3A8BB9" ModuleId="EchoWeb" />
+  <Module PersistentId="2C155AE4-8F2D-4D5A-BDA0-F8D5937A4D91" ModuleId="S3Sample1" />
+  <Module PersistentId="91BF0EAC-D4CE-4243-A0C3-67CF479B0F94" ModuleId="InputWeb" />
+  <Module PersistentId="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE" ModuleId="AwsUtils" />
+  <Module PersistentId="54E06051-D4A8-4730-90CC-30B57734F093" ModuleId="DaffodilReader" />
+</Modules>

@@ -1,0 +1,219 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4438E75B-0F06-4820-AAB3-D0006516E852/f:Default.aspx.cs" caret="960" fromTop="7" />
+      <File id="4438E75B-0F06-4820-AAB3-D0006516E852/f:Web.config" caret="176" fromTop="1" />
+      <File id="4438E75B-0F06-4820-AAB3-D0006516E852/f:Domains.cs" caret="235" fromTop="2" />
+      <File id="5B178F15-B9A0-4810-96D7-16012A3A8BB9/f:Global.asax.cs" caret="393" fromTop="3" />
+      <File id="5B178F15-B9A0-4810-96D7-16012A3A8BB9/d:Controllers/f:HomeController.cs" caret="299" fromTop="13" />
+      <File id="5B178F15-B9A0-4810-96D7-16012A3A8BB9/d:Views/d:Home/f:Index.cshtml" caret="114" fromTop="7" />
+      <File id="91BF0EAC-D4CE-4243-A0C3-67CF479B0F94/d:Views/d:Home/f:Index.cshtml" caret="45" fromTop="3" />
+      <File id="91BF0EAC-D4CE-4243-A0C3-67CF479B0F94/d:Views/d:Aws/f:SecretKey.cshtml" caret="104" fromTop="8" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Helpers/f:AwsConfig.cs" caret="140" fromTop="7" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Email/f:EmailProvider.cs" caret="1172" fromTop="14" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/f:FileReaderTests.cs" caret="211" fromTop="8" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Helpers/f:Assert.cs" caret="385" fromTop="10" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/f:FileReader.cs" caret="739" fromTop="17" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/f:App.config" caret="293" fromTop="6" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Properties/f:AssemblyInfo.cs" caret="1471" fromTop="22" />
+      <File id="91BF0EAC-D4CE-4243-A0C3-67CF479B0F94/f:Web.config" caret="524" fromTop="14" />
+      <File id="91BF0EAC-D4CE-4243-A0C3-67CF479B0F94/d:Controllers/f:HomeController.cs" caret="1358" fromTop="15" />
+      <File id="54E06051-D4A8-4730-90CC-30B57734F093/f:Program.cs" caret="341" fromTop="11" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Queues/f:QueueProvider.cs" caret="763" fromTop="1" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/d:QueueTests/f:QueueProviderTests.cs" caret="3185" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="91BF0EAC-D4CE-4243-A0C3-67CF479B0F94/d:Views/d:Home/f:Index.cshtml" caret="305" fromTop="13" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Helpers/f:Assert.cs" caret="398" fromTop="11" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Helpers/f:Assert.cs" caret="105" fromTop="4" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/f:FileReaderTests.cs" caret="672" fromTop="6" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/f:FileReaderTests.cs" caret="215" fromTop="9" />
+      <File id="91BF0EAC-D4CE-4243-A0C3-67CF479B0F94/f:Web.config" caret="333" fromTop="11" />
+      <File id="91BF0EAC-D4CE-4243-A0C3-67CF479B0F94/d:Controllers/f:HomeController.cs" caret="1332" fromTop="9" />
+      <File id="91BF0EAC-D4CE-4243-A0C3-67CF479B0F94/d:Controllers/f:HomeController.cs" caret="562" fromTop="6" />
+      <File id="91BF0EAC-D4CE-4243-A0C3-67CF479B0F94/f:Web.config" caret="577" fromTop="15" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Queues/f:QueueProvider.cs" caret="3951" fromTop="13" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/d:QueueTests/f:QueueProviderTests.cs" caret="487" fromTop="7" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/d:QueueTests/f:QueueProviderTests.cs" caret="788" fromTop="17" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Queues/f:QueueProvider.cs" caret="3274" fromTop="20" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Queues/f:QueueProvider.cs" caret="2455" fromTop="5" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Queues/f:QueueProvider.cs" caret="3244" fromTop="9" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/d:QueueTests/f:QueueProviderTests.cs" caret="261" fromTop="9" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/d:QueueTests/f:QueueProviderTests.cs" caret="2370" fromTop="11" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/f:App.config" caret="293" fromTop="6" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Queues/f:QueueProvider.cs" caret="2954" fromTop="13" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Queues/f:QueueProvider.cs" caret="5175" fromTop="15" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Properties/f:AssemblyInfo.cs" caret="1468" fromTop="22" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/d:QueueTests/f:QueueProviderTests.cs" caret="2131" fromTop="20" />
+      <File id="54E06051-D4A8-4730-90CC-30B57734F093/f:Program.cs" caret="859" fromTop="23" />
+      <File id="54E06051-D4A8-4730-90CC-30B57734F093/f:Program.cs" caret="290" fromTop="10" />
+      <File id="54E06051-D4A8-4730-90CC-30B57734F093/f:Program.cs" caret="454" fromTop="13" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Queues/f:QueueProvider.cs" caret="868" fromTop="3" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Queues/f:QueueProvider.cs" caret="1984" fromTop="20" />
+      <File id="8853CAC2-B215-4EAC-B0B8-9D7B335ADECE/d:Queues/f:QueueProvider.cs" caret="2144" fromTop="22" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/d:QueueTests/f:QueueProviderTests.cs" caret="2979" fromTop="21" />
+      <File id="112F8279-5A0E-4FF9-8AE9-1BF3CFB43F43/d:TestCases/d:QueueTests/f:QueueProviderTests.cs" caret="3185" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Amazon" priority="1" />
+      <Item value="SimpleDB" priority="1" />
+      <Item value="using" priority="1" />
+      <Item value="Util" priority="0" />
+      <Item value="public" priority="7" />
+      <Item value="virtual" priority="4" />
+      <Item value="List" priority="0" />
+      <Item value="string" priority="4" />
+      <Item value="var" priority="29" />
+      <Item value="client" priority="2" />
+      <Item value="new" priority="12" />
+      <Item value="ListDomainsRequest" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="in" priority="1" />
+      <Item value="response" priority="6" />
+      <Item value="r" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="_baseUrl" priority="2" />
+      <Item value="NUnit.Framework" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="AwsConfig`0" priority="3" />
+      <Item value="protected" priority="0" />
+      <Item value="internal" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="config" priority="0" />
+      <Item value="this" priority="11" />
+      <Item value="queueName" priority="7" />
+      <Item value="void" priority="3" />
+      <Item value="if" priority="6" />
+      <Item value="bool" priority="1" />
+      <Item value="request" priority="1" />
+      <Item value="ListQueuesRequest" priority="0" />
+      <Item value="QueueNamePrefix" priority="0" />
+      <Item value="x" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="exists" priority="2" />
+      <Item value="q" priority="0" />
+      <Item value="break" priority="0" />
+      <Item value="QueueProvider`0" priority="2" />
+      <Item value="provider" priority="4" />
+      <Item value="Assert" priority="3" />
+      <Item value="baseUrl" priority="0" />
+      <Item value="char" priority="1" />
+      <Item value="assembly" priority="0" />
+      <Item value="InternalsVisibleTo" priority="0" />
+      <Item value="Is`0" priority="2" />
+      <Item value="expected" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="Daffodil`0" priority="1" />
+      <Item value="ReceiveMessageRequest" priority="0" />
+      <Item value="QueueUrl" priority="0" />
+      <Item value="MaxNumberOfMessages" priority="0" />
+      <Item value="messageResult" priority="2" />
+      <Item value="Message`0" priority="0" />
+      <Item value="messages" priority="1" />
+      <Item value="null" priority="2" />
+      <Item value="message" priority="3" />
+      <Item value="daffodil" priority="3" />
+      <Item value="body" priority="1" />
+      <Item value="Id" priority="0" />
+      <Item value="id" priority="1" />
+      <Item value="Data" priority="0" />
+      <Item value="Guid`0" priority="0" />
+      <Item value="temp" priority="0" />
+      <Item value="data" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Amazon.SimpleDB.AmazonSimpleDB">
+      <Item value="ListDomains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Amazon.SimpleDB.Model.ListDomainsResponse">
+      <Item value="ListDomainsResult" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Amazon.SimpleDB.Model.ListDomainsResult">
+      <Item value="DomainName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="GetEnvironmentVariable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:InputWeb.Controllers.HomeController">
+      <Item value="AwsConfig" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AwsUtilsTests.TestCases.QueueTests.QueueProviderTests">
+      <Item value="AwsConfig" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AwsUtils.Queues.QueueProvider">
+      <Item value="CreateQueue`0" priority="0" />
+      <Item value="GetClient`0" priority="0" />
+      <Item value="DoesQueueExist`0" priority="0" />
+      <Item value="CalculateQueueUrl`0" priority="2" />
+      <Item value="SendMessage`0" priority="0" />
+      <Item value="ReadMessage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Amazon.SQS.AmazonSQS">
+      <Item value="ListQueues`0" priority="0" />
+      <Item value="ReceiveMessage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Amazon.SQS.Model.ListQueuesResponse">
+      <Item value="ListQueuesResult" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Amazon.SQS.Model.ListQueuesResult">
+      <Item value="QueueUrl" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ForEach`0" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="0" />
+      <Item value="EndsWith`0" priority="0" />
+      <Item value="TrimEnd`0" priority="0" />
+      <Item value="TrimStart`0" priority="0" />
+      <Item value="DeserializeFromJson`1" priority="0" />
+      <Item value="Replace`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="EqualTo`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Amazon.SQS.Model.ReceiveMessageResponse">
+      <Item value="IsSetReceiveMessageResult`0" priority="0" />
+      <Item value="ReceiveMessageResult" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Amazon.SQS.Model.ReceiveMessageResult">
+      <Item value="IsSetMessage`0" priority="0" />
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Amazon.SQS.Model.Message">
+      <Item value="IsSetBody`0" priority="0" />
+      <Item value="Body" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

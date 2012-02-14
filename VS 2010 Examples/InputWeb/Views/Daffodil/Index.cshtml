@@ -1,0 +1,12 @@
+﻿@model List<AwsUtils.Entities.Daffodil>
+@{
+    ViewBag.Title = "Daffodils";
+}
+
+<h2>All The Lovely Daffodils</h2>
+
+@foreach (var d in Model)
+{
+	<text>ID: @d.Id / Data: @d.Data </text>
+}
+	

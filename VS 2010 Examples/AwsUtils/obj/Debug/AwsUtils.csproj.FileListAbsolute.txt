@@ -1,0 +1,5 @@
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\AwsUtils\bin\Debug\AwsUtils.dll
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\AwsUtils\bin\Debug\AwsUtils.pdb
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\AwsUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\AwsUtils\obj\Debug\AwsUtils.dll
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\AwsUtils\obj\Debug\AwsUtils.pdb

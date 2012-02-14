@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "InputWeb Home";
+}
+
+<h2>InputWeb Home</h2>
+<p />
+Use this form to drop an item onto a queue for subsequent processing.
+<p />
+
+@using (Html.BeginForm("Data", "Home", FormMethod.Post))
+{
+	<div>
+		ID: <input type="text" name="Id" value="" size="30" />
+	</div>
+	<div>
+		DATA: <textarea name="Data" cols="30" cols="30"></textarea>
+	</div>
+	<div>
+		<button type="submit">Add Item to Queue</button>
+	</div>
+}
+
