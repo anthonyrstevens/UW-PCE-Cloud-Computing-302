@@ -40,6 +40,7 @@
     <Folder Include="Profiles" />
   </ItemGroup>
   <ItemGroup>
+    <PublishProfile Include="Profiles\Cloud302-20120227Production.azurePubxml" />
     <PublishProfile Include="Profiles\Cloud302Week2v1Production.azurePubxml" />
   </ItemGroup>
   <ItemGroup>

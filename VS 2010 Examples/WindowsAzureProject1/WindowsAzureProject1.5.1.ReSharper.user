@@ -7,8 +7,49 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="0133F4E3-CBDB-4270-8DFC-E4413A5A4951/d:Controllers/f:HomeController.cs" caret="191" fromTop="8" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Container.cs" caret="229" fromTop="10" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="190" fromTop="10" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="1947" fromTop="11" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueMessage.cs" caret="156" fromTop="9" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:ProviderBase.cs" caret="641" fromTop="15" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="2643" fromTop="20" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="1197" fromTop="9" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:QueueProviderTests.cs" caret="310" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="1388" fromTop="10" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="971" fromTop="3" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="975" fromTop="18" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="710" fromTop="9" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="964" fromTop="15" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="1106" fromTop="8" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="1483" fromTop="9" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="1907" fromTop="14" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="2643" fromTop="14" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="1521" fromTop="13" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="2204" fromTop="17" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="2558" fromTop="16" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="271" fromTop="17" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="271" fromTop="11" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="1956" fromTop="11" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueMessage.cs" caret="276" fromTop="11" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="594" fromTop="14" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="594" fromTop="13" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="814" fromTop="28" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:ProviderBase.cs" caret="641" fromTop="15" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="202" fromTop="4" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="367" fromTop="10" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="1025" fromTop="16" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="1580" fromTop="6" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="404" fromTop="9" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="777" fromTop="19" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="210" fromTop="1" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="1260" fromTop="6" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="1196" fromTop="9" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:QueueProviderTests.cs" caret="420" fromTop="8" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +61,130 @@
     <NUnitInstallDir>C:\Program Files\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Blobby" priority="2" />
+      <Item value="using" priority="2" />
+      <Item value="NUnit.Framework" priority="0" />
+      <Item value="public" priority="16" />
+      <Item value="void" priority="5" />
+      <Item value="var" priority="28" />
+      <Item value="new" priority="14" />
+      <Item value="BlobProvider`0" priority="2" />
+      <Item value="provider" priority="5" />
+      <Item value="Assert`0" priority="4" />
+      <Item value="Is`0" priority="2" />
+      <Item value="List" priority="2" />
+      <Item value="return" priority="4" />
+      <Item value="List&lt;Blob&gt;" priority="0" />
+      <Item value="string" priority="15" />
+      <Item value="Microsoft" priority="4" />
+      <Item value="WindowsAzure.StorageClient" priority="0" />
+      <Item value="WindowsAzure" priority="3" />
+      <Item value="StorageClient" priority="1" />
+      <Item value="CloudStorageAccount`0" priority="0" />
+      <Item value="StorageCredentials`0" priority="0" />
+      <Item value="storageCredentials" priority="0" />
+      <Item value="StorageCredentialsAccountAndKey`0" priority="0" />
+      <Item value="cred" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="account" priority="1" />
+      <Item value="blobClient" priority="2" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="Container`0" priority="1" />
+      <Item value="containers" priority="0" />
+      <Item value="c" priority="3" />
+      <Item value="Name" priority="0" />
+      <Item value="Uri" priority="1" />
+      <Item value="list" priority="2" />
+      <Item value="interestingList" priority="0" />
+      <Item value="o2" priority="0" />
+      <Item value="containerName" priority="9" />
+      <Item value="b" priority="1" />
+      <Item value="somethingContainer" priority="0" />
+      <Item value="Guid`0" priority="0" />
+      <Item value="DataMisalignedException`0" priority="0" />
+      <Item value="containerRef" priority="2" />
+      <Item value="this" priority="2" />
+      <Item value="blobRef" priority="0" />
+      <Item value="data" priority="3" />
+      <Item value="blobName" priority="1" />
+      <Item value="otherBlob" priority="0" />
+      <Item value="blob" priority="2" />
+      <Item value="expected" priority="0" />
+      <Item value="throw" priority="3" />
+      <Item value="NotImplementedException" priority="3" />
+      <Item value="Blob`0" priority="0" />
+      <Item value="Container" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="myBlob" priority="0" />
+      <Item value="queue" priority="1" />
+      <Item value="CloudQueueMessage" priority="0" />
+      <Item value="virtual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="3" />
+      <Item value="IsNotNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="EqualTo`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.WindowsAzure.CloudStorageAccount">
+      <Item value="CreateCloudBlobClient`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.WindowsAzure.StorageClient.CloudBlobClient">
+      <Item value="ListContainers`0" priority="0" />
+      <Item value="ListBlobsWithPrefix`0" priority="0" />
+      <Item value="GetContainerReference`0" priority="1" />
+      <Item value="GetBlobReference`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.WindowsAzure.StorageClient.CloudBlobContainer">
+      <Item value="Name" priority="2" />
+      <Item value="CreateIfNotExist`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Where`1" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.WindowsAzure.StorageClient.IListBlobItem">
+      <Item value="Container" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Container">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.BlobProvider">
+      <Item value="CreateContainer`0" priority="0" />
+      <Item value="GetAccount`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.WindowsAzure.StorageClient.CloudBlob">
+      <Item value="Container" priority="0" />
+      <Item value="UploadText`0" priority="1" />
+      <Item value="DownloadText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.WindowsAzure.StorageClient.CloudQueue">
+      <Item value="CreateIfNotExist`0" priority="0" />
+      <Item value="AddMessage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.QueueProvider">
+      <Item value="GetAccount`0" priority="0" />
+      <Item value="CreateQueue`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

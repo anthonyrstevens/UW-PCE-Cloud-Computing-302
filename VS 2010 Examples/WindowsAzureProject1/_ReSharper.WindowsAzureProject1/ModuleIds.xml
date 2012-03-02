@@ -1,3 +1,5 @@
 <Modules>
   <Module PersistentId="0133F4E3-CBDB-4270-8DFC-E4413A5A4951" ModuleId="MvcWebRole1" />
+  <Module PersistentId="A3B4CAC1-1DB6-47F2-AE1F-18640923D771" ModuleId="Blobby" />
+  <Module PersistentId="1031096C-9D00-48DF-93AE-D687D4A3D890" ModuleId="BlobbyTest" />
 </Modules>
