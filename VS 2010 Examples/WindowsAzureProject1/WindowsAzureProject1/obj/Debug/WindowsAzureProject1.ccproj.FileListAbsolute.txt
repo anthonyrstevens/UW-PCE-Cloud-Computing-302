@@ -1,0 +1,1 @@
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\WindowsAzureProject1\bin\Debug\ServiceConfiguration.cscfg

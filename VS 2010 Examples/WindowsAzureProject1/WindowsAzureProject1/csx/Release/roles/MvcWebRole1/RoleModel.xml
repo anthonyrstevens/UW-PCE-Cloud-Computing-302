@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="MvcWebRole1" version="1.6.21103.1459" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Startup>
+    <Task commandLine="DiagnosticsAgent.exe" taskType="background" relativePath="plugins\Diagnostics">
+      <Environment>
+        <Variable name="RdModuleName" value="Diagnostics" />
+        <Variable name="WaRoleType" value="IISWebRole" />
+      </Environment>
+    </Task>
+    <Task commandLine="DiagnosticsAgent.exe /blockStartup" relativePath="plugins\Diagnostics">
+      <Environment>
+        <Variable name="RdModuleName" value="Diagnostics" />
+        <Variable name="WaRoleType" value="IISWebRole" />
+      </Environment>
+    </Task>
+    <Task commandLine="RemoteAccessAgent.exe" executionContext="elevated" taskType="background" relativePath="plugins\RemoteAccess">
+      <Environment>
+        <Variable name="RdModuleName" value="RemoteAccess" />
+        <Variable name="WaRoleType" value="IISWebRole" />
+      </Environment>
+    </Task>
+    <Task commandLine="RemoteAccessAgent.exe /blockStartup" executionContext="elevated" relativePath="plugins\RemoteAccess">
+      <Environment>
+        <Variable name="RdModuleName" value="RemoteAccess" />
+        <Variable name="WaRoleType" value="IISWebRole" />
+      </Environment>
+    </Task>
+    <Task commandLine="ConfigureIIS.cmd &gt; WebDeployConfig.log" executionContext="elevated" relativePath="plugins\WebDeploy">
+      <Environment>
+        <Variable name="RdModuleName" value="WebDeploy" />
+        <Variable name="WaRoleType" value="IISWebRole" />
+      </Environment>
+    </Task>
+  </Startup>
+  <Runtime>
+    <EntryPoint>
+      <NetFxEntryPoint assemblyName="MvcWebRole1.dll" />
+    </EntryPoint>
+  </Runtime>
+  <ConfigurationSettings>
+    <Setting name="ConnectionString" nameSpace="Microsoft.WindowsAzure.Plugins.Diagnostics" />
+    <Setting name="Enabled" nameSpace="Microsoft.WindowsAzure.Plugins.RemoteAccess" />
+    <Setting name="AccountUsername" nameSpace="Microsoft.WindowsAzure.Plugins.RemoteAccess" />
+    <Setting name="AccountEncryptedPassword" nameSpace="Microsoft.WindowsAzure.Plugins.RemoteAccess" />
+    <Setting name="AccountExpiration" nameSpace="Microsoft.WindowsAzure.Plugins.RemoteAccess" />
+  </ConfigurationSettings>
+  <Properties>
+    <Property name="RoleType" value="Web" />
+    <Property name="RoleName" value="MvcWebRole1" />
+    <Property name="ProjectName" value="MvcWebRole1" />
+    <Property name="Configuration" value="Release" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="OutputDir" value="C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\WindowsAzureProject1\obj\Release\MvcWebRole1\" />
+    <Property name="EntryPoint" value="MvcWebRole1.dll" />
+    <Property name="SourceDir" value="C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\MvcWebRole1\" />
+    <Property name="RoleTargetFramework" value="v4.0" />
+    <Property name="SitePhysicalPath" value="C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\WindowsAzureProject1\obj\Release\MvcWebRole1\" />
+    <Property name="OriginalItemSpec" value="C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\WindowsAzureProject1\WindowsAzureProject1.ccproj" />
+    <Property name="MSBuildSourceProjectFile" value="C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\WindowsAzureProject1\WindowsAzureProject1.ccproj" />
+    <Property name="MSBuildSourceTargetName" value="ResolveSingleWebRoleReference" />
+    <Property name="TargetFrameworkVersion" value="v4.0" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+  <Sites>
+    <Site name="Web" physicalDirectory="C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\WindowsAzureProject1\obj\Release\MvcWebRole1\">
+      <Bindings>
+        <Binding name="Endpoint1" endpointName="Endpoint1" />
+      </Bindings>
+    </Site>
+  </Sites>
+</RoleModel>

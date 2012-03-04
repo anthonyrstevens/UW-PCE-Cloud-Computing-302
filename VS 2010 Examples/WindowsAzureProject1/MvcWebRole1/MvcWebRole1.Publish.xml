@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="https://cloud302-20120227.cloudapp.net:8172/MsDeploy.axd" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="MvcWebRole1_IN_0_Web" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Cloud302-20120227 - Production" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="anthonyrstevens" savePWD="False" userPWD="" SelectedForPublish="True" />
+</publishData>

@@ -1,0 +1,6 @@
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\Blobby\bin\Debug\Blobby.dll
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\Blobby\bin\Debug\Blobby.pdb
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\Blobby\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\Blobby\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\Blobby\obj\Debug\Blobby.dll
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\Blobby\obj\Debug\Blobby.pdb
