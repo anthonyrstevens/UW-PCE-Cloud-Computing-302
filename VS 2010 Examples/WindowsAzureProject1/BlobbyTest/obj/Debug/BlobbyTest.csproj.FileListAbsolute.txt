@@ -8,3 +8,4 @@ C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Exam
 C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\BlobbyTest\obj\Debug\BlobbyTest.dll
 C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\BlobbyTest\obj\Debug\BlobbyTest.pdb
 C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\BlobbyTest\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Anthony\Documents\UW PCE\github\UW-PCE-Cloud-Computing-302\VS 2010 Examples\WindowsAzureProject1\BlobbyTest\bin\Debug\Rhino.Mocks.dll

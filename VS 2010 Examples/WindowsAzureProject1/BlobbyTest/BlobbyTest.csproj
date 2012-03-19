@@ -39,6 +39,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\NUnit 2.5.10\bin\net-2.0\framework\nunit.framework.dll</HintPath>
     </Reference>
+    <Reference Include="Rhino.Mocks">
+      <HintPath>..\packages\RhinoMocks.3.6\lib\Rhino.Mocks.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,16 +51,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AssertHelper.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestCases\BlobProviderTests.cs" />
     <Compile Include="TestCases\QueueProviderTests.cs" />
+    <Compile Include="TestCases\TickersTests\QuoteFactoryTests.cs" />
+    <Compile Include="TestCases\TickersTests\TestSetupTests\AverageStockPriceTests\AverageDataTests.cs" />
+    <Compile Include="TestCases\TickersTests\TestSetupTests\AverageStockPriceTests\ContainerAverageStockPriceTests.cs" />
+    <Compile Include="TestCases\TickersTests\TestSetupTests\AverageStockPriceTests\LineAverageStockPriceTests.cs" />
+    <Compile Include="TestCases\TickersTests\TestSetupTests\OneTimeSetup.cs" />
+    <Compile Include="TestCases\TickersTests\TestSetupTests\QuoteFileFactoryTests.cs" />
+    <Compile Include="TestCases\TickersTests\TickerFactoryTests.cs" />
+    <Compile Include="TestCases\TickersTests\IdentifiersTests.cs" />
+    <Compile Include="TestCases\UtilsTests\NumberUtilsTests.cs" />
+    <Compile Include="TestCases\UtilsTests\RegexTests.cs" />
+    <Compile Include="TestCases\UtilsTests\StringUtilsTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Blobby\Blobby.csproj">
       <Project>{A3B4CAC1-1DB6-47F2-AE1F-18640923D771}</Project>
       <Name>Blobby</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

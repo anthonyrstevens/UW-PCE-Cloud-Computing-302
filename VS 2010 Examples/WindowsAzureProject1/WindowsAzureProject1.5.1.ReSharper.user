@@ -8,47 +8,68 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="0133F4E3-CBDB-4270-8DFC-E4413A5A4951/d:Controllers/f:HomeController.cs" caret="191" fromTop="8" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Container.cs" caret="229" fromTop="10" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="190" fromTop="10" />
-      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="1947" fromTop="11" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueMessage.cs" caret="156" fromTop="9" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:ProviderBase.cs" caret="641" fromTop="15" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="2643" fromTop="20" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="1197" fromTop="9" />
-      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:QueueProviderTests.cs" caret="310" fromTop="6" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Utils/f:DecimalExtensions.cs" caret="278" fromTop="11" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/f:Ticker.cs" caret="144" fromTop="7" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Utils/f:NumberUtils.cs" caret="609" fromTop="9" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Utils/f:DateUtils.cs" caret="1130" fromTop="2" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/f:IdentifiersTests.cs" caret="1608" fromTop="60" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/f:Quote.cs" caret="90" fromTop="2" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/f:QuoteFile.cs" caret="872" fromTop="15" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Properties/f:AssemblyInfo.cs" caret="1464" fromTop="20" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/f:AssertHelper.cs" caret="333" fromTop="13" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/f:TickerFactory.cs" caret="999" fromTop="10" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Utils/f:StringUtils.cs" caret="726" fromTop="16" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:StringUtilsTests.cs" caret="1977" fromTop="6" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/f:TickerFactoryTests.cs" caret="859" fromTop="12" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/d:TestSetupTests/f:QuoteFileFactoryTests.cs" caret="794" fromTop="15" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="198" fromTop="4" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:ProviderBase.cs" caret="525" fromTop="13" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/f:Identifiers.cs" caret="178" fromTop="4" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:TestSetup/f:StockDataWriter.cs" caret="598" fromTop="12" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:TestSetup/f:QuoteFileFactory.cs" caret="444" fromTop="13" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/f:QuoteFactoryTests.cs" caret="1255" fromTop="14" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/f:QuoteFactory.cs" caret="1315" fromTop="9" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="299" fromTop="13" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:AverageData.cs" caret="431" fromTop="13" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/d:TestSetupTests/d:AverageStockPriceTests/f:AverageDataTests.cs" caret="718" fromTop="15" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:ContainerAverageStockPrice.cs" caret="898" fromTop="7" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:BlobAverageStockPrice.cs" caret="770" fromTop="13" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:LineAverageStockPrice.cs" caret="1081" fromTop="8" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Utils/f:Regex.cs" caret="567" fromTop="17" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="5433" fromTop="11" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/d:TestSetupTests/f:OneTimeSetup.cs" caret="714" fromTop="3" />
     </RecentFiles>
     <RecentEdits>
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="1388" fromTop="10" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="971" fromTop="3" />
-      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="975" fromTop="18" />
-      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="710" fromTop="9" />
-      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="964" fromTop="15" />
-      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="1106" fromTop="8" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="1483" fromTop="9" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="1907" fromTop="14" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="2643" fromTop="14" />
-      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="1521" fromTop="13" />
-      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="2204" fromTop="17" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="2558" fromTop="16" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="271" fromTop="17" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="271" fromTop="11" />
-      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:BlobProviderTests.cs" caret="1956" fromTop="11" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueMessage.cs" caret="276" fromTop="11" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="594" fromTop="14" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="594" fromTop="13" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="814" fromTop="28" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:ProviderBase.cs" caret="641" fromTop="15" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="202" fromTop="4" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="367" fromTop="10" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="1025" fromTop="16" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:BlobProvider.cs" caret="1580" fromTop="6" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="404" fromTop="9" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="777" fromTop="19" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="210" fromTop="1" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="1260" fromTop="6" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:QueueProvider.cs" caret="1196" fromTop="9" />
-      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/f:QueueProviderTests.cs" caret="420" fromTop="8" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:LineAverageStockPrice.cs" caret="654" fromTop="14" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:LineAverageStockPrice.cs" caret="541" fromTop="5" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:BlobAverageStockPrice.cs" caret="768" fromTop="20" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="494" fromTop="16" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:ContainerAverageStockPrice.cs" caret="1002" fromTop="11" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:LineAverageStockPrice.cs" caret="195" fromTop="6" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:ContainerAverageStockPrice.cs" caret="146" fromTop="6" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:BlobAverageStockPrice.cs" caret="146" fromTop="6" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:LineAverageStockPrice.cs" caret="714" fromTop="9" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:LineAverageStockPrice.cs" caret="968" fromTop="13" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="5070" fromTop="15" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="3978" fromTop="2" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="4256" fromTop="12" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="4640" fromTop="14" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="4353" fromTop="4" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="4857" fromTop="13" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Utils/f:Regex.cs" caret="283" fromTop="5" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Utils/f:Regex.cs" caret="862" fromTop="15" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Utils/f:Regex.cs" caret="974" fromTop="13" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:ContainerAverageStockPrice.cs" caret="641" fromTop="11" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:ContainerAverageStockPrice.cs" caret="1001" fromTop="14" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:AverageData.cs" caret="440" fromTop="13" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/d:TestSetupTests/d:AverageStockPriceTests/f:AverageDataTests.cs" caret="704" fromTop="15" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/d:TestSetupTests/d:AverageStockPriceTests/f:AverageDataTests.cs" caret="419" fromTop="5" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:BlobAverageStockPrice.cs" caret="461" fromTop="11" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:BlobAverageStockPrice.cs" caret="796" fromTop="14" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:LineAverageStockPrice.cs" caret="1140" fromTop="10" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="5271" fromTop="7" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="5533" fromTop="12" />
+      <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/d:TestSetupTests/f:OneTimeSetup.cs" caret="1053" fromTop="11" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -63,21 +84,21 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="Blobby" priority="2" />
-      <Item value="using" priority="2" />
+      <Item value="Blobby" priority="7" />
+      <Item value="using" priority="3" />
       <Item value="NUnit.Framework" priority="0" />
-      <Item value="public" priority="16" />
-      <Item value="void" priority="5" />
-      <Item value="var" priority="28" />
-      <Item value="new" priority="14" />
-      <Item value="BlobProvider`0" priority="2" />
-      <Item value="provider" priority="5" />
-      <Item value="Assert`0" priority="4" />
-      <Item value="Is`0" priority="2" />
-      <Item value="List" priority="2" />
-      <Item value="return" priority="4" />
+      <Item value="public" priority="77" />
+      <Item value="void" priority="22" />
+      <Item value="var" priority="161" />
+      <Item value="new" priority="80" />
+      <Item value="BlobProvider`0" priority="5" />
+      <Item value="provider" priority="9" />
+      <Item value="Assert`0" priority="22" />
+      <Item value="Is`0" priority="17" />
+      <Item value="List" priority="18" />
+      <Item value="return" priority="41" />
       <Item value="List&lt;Blob&gt;" priority="0" />
-      <Item value="string" priority="15" />
+      <Item value="string" priority="64" />
       <Item value="Microsoft" priority="4" />
       <Item value="WindowsAzure.StorageClient" priority="0" />
       <Item value="WindowsAzure" priority="3" />
@@ -87,48 +108,190 @@
       <Item value="storageCredentials" priority="0" />
       <Item value="StorageCredentialsAccountAndKey`0" priority="0" />
       <Item value="cred" priority="0" />
-      <Item value="true" priority="0" />
+      <Item value="true" priority="5" />
       <Item value="account" priority="1" />
       <Item value="blobClient" priority="2" />
-      <Item value="foreach" priority="0" />
-      <Item value="in" priority="0" />
+      <Item value="foreach" priority="2" />
+      <Item value="in" priority="3" />
       <Item value="Container`0" priority="1" />
       <Item value="containers" priority="0" />
-      <Item value="c" priority="3" />
+      <Item value="c" priority="5" />
       <Item value="Name" priority="0" />
       <Item value="Uri" priority="1" />
-      <Item value="list" priority="2" />
+      <Item value="list" priority="6" />
       <Item value="interestingList" priority="0" />
       <Item value="o2" priority="0" />
-      <Item value="containerName" priority="9" />
+      <Item value="containerName" priority="13" />
       <Item value="b" priority="1" />
       <Item value="somethingContainer" priority="0" />
-      <Item value="Guid`0" priority="0" />
+      <Item value="Guid`0" priority="2" />
       <Item value="DataMisalignedException`0" priority="0" />
       <Item value="containerRef" priority="2" />
-      <Item value="this" priority="2" />
+      <Item value="this" priority="40" />
       <Item value="blobRef" priority="0" />
-      <Item value="data" priority="3" />
-      <Item value="blobName" priority="1" />
+      <Item value="data" priority="9" />
+      <Item value="blobName" priority="2" />
       <Item value="otherBlob" priority="0" />
-      <Item value="blob" priority="2" />
-      <Item value="expected" priority="0" />
-      <Item value="throw" priority="3" />
-      <Item value="NotImplementedException" priority="3" />
-      <Item value="Blob`0" priority="0" />
+      <Item value="blob" priority="4" />
+      <Item value="expected" priority="2" />
+      <Item value="throw" priority="9" />
+      <Item value="NotImplementedException" priority="7" />
+      <Item value="Blob`0" priority="3" />
       <Item value="Container" priority="0" />
       <Item value="Data" priority="0" />
       <Item value="myBlob" priority="0" />
       <Item value="queue" priority="1" />
       <Item value="CloudQueueMessage" priority="0" />
-      <Item value="virtual" priority="0" />
+      <Item value="virtual" priority="42" />
+      <Item value="String`0" priority="6" />
+      <Item value="int" priority="19" />
+      <Item value="Test" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="Utils" priority="5" />
+      <Item value="Regex`0" priority="5" />
+      <Item value="regex" priority="5" />
+      <Item value="input" priority="12" />
+      <Item value="pattern" priority="6" />
+      <Item value="isMatch" priority="2" />
+      <Item value="System" priority="25" />
+      <Item value="Text" priority="1" />
+      <Item value="RegularExpressions" priority="1" />
+      <Item value="bool" priority="5" />
+      <Item value="if" priority="6" />
+      <Item value="lowercaseOk" priority="0" />
+      <Item value="isAscii" priority="2" />
+      <Item value="actual" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="const" priority="8" />
+      <Item value="char" priority="0" />
+      <Item value="uppercaseOk" priority="0" />
+      <Item value="protected" priority="9" />
+      <Item value="internal" priority="9" />
+      <Item value="Random`0" priority="13" />
+      <Item value="private" priority="11" />
+      <Item value="Rand" priority="0" />
+      <Item value="lowerBound" priority="4" />
+      <Item value="randomIndex" priority="2" />
+      <Item value="UPPERCASE_A" priority="0" />
+      <Item value="asciiIndex" priority="1" />
+      <Item value="Char`0" priority="0" />
+      <Item value="Convert`0" priority="1" />
+      <Item value="chr" priority="2" />
+      <Item value="length" priority="3" />
+      <Item value="Exception" priority="0" />
+      <Item value="for" priority="9" />
+      <Item value="i" priority="14" />
+      <Item value="returnValue" priority="4" />
+      <Item value="utils" priority="1" />
+      <Item value="num" priority="2" />
+      <Item value="decimal" priority="10" />
+      <Item value="Random" priority="0" />
+      <Item value="_rand" priority="2" />
+      <Item value="upperBound" priority="3" />
+      <Item value="scaled" priority="0" />
+      <Item value="Console`0" priority="4" />
+      <Item value="static" priority="2" />
+      <Item value="d" priority="0" />
+      <Item value="factory" priority="6" />
+      <Item value="Ticker`0" priority="1" />
+      <Item value="Identifier" priority="1" />
+      <Item value="Price" priority="1" />
+      <Item value="ticker" priority="3" />
+      <Item value="stringUtils" priority="0" />
+      <Item value="MAX_IDENTIFIER_LENGTH" priority="0" />
+      <Item value="identifier" priority="5" />
+      <Item value="StringUtils`0" priority="7" />
+      <Item value="_stringUtils" priority="0" />
+      <Item value="null" priority="10" />
+      <Item value="NumberUtils`0" priority="0" />
+      <Item value="price" priority="0" />
+      <Item value="DateTime`0" priority="6" />
+      <Item value="Quote`0" priority="3" />
+      <Item value="TickerFactory`0" priority="2" />
+      <Item value="TickerFactory" priority="1" />
+      <Item value="_tickerFactory" priority="1" />
+      <Item value="DateTime" priority="0" />
+      <Item value="timeSpan" priority="0" />
+      <Item value="double" priority="0" />
+      <Item value="long" priority="0" />
+      <Item value="multiplier" priority="0" />
+      <Item value="totalSeconds" priority="0" />
+      <Item value="scaledSeconds" priority="0" />
+      <Item value="newDate" priority="0" />
+      <Item value="_dateUtils" priority="0" />
+      <Item value="DateUtils`0" priority="1" />
+      <Item value="DateUtils" priority="0" />
+      <Item value="QuoteFactoryTests`0" priority="0" />
+      <Item value="quote" priority="4" />
+      <Item value="QuoteDate" priority="0" />
+      <Item value="asciiLowerBound" priority="0" />
+      <Item value="asciiUpperBound" priority="0" />
+      <Item value="result" priority="5" />
+      <Item value="QuoteFactory`0" priority="3" />
+      <Item value="count" priority="6" />
+      <Item value="ValidIdentifiers`0" priority="0" />
+      <Item value="validIdentifiers" priority="0" />
+      <Item value="Identifiers`0" priority="4" />
+      <Item value="identifiers" priority="0" />
+      <Item value="_quoteFactory" priority="1" />
+      <Item value="QuoteFactory" priority="0" />
+      <Item value="Environment`0" priority="5" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="sb" priority="2" />
+      <Item value="line" priority="3" />
+      <Item value="formatString" priority="0" />
+      <Item value="IdentifiersTests`0" priority="1" />
+      <Item value="QuoteFile`0" priority="1" />
+      <Item value="lineCount" priority="1" />
+      <Item value="randomQuotes" priority="0" />
+      <Item value="file" priority="2" />
+      <Item value="while" priority="1" />
+      <Item value="expectedLines" priority="0" />
+      <Item value="temp" priority="2" />
+      <Item value="currentIndex" priority="3" />
+      <Item value="expectedLineCount" priority="0" />
+      <Item value="OutOfMemoryException`0" priority="0" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="InternalsVisibleTo" priority="0" />
+      <Item value="AssertHelper`0" priority="0" />
+      <Item value="n" priority="2" />
+      <Item value="numFiles" priority="0" />
+      <Item value="QuoteFileFactory`0" priority="0" />
+      <Item value="allowedIdentifiers" priority="3" />
+      <Item value="fileName" priority="0" />
+      <Item value="writer" priority="0" />
+      <Item value="Identifiers" priority="1" />
+      <Item value="rand" priority="0" />
+      <Item value="AverageStockPrice`0" priority="0" />
+      <Item value="ParallelEnumerable`0" priority="0" />
+      <Item value="BlobAverageStockPrice`0" priority="2" />
+      <Item value="LineAverageStockPrice`0" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="lines" priority="0" />
+      <Item value="AverageStockPrice" priority="0" />
+      <Item value="AverageData" priority="0" />
+      <Item value="matches" priority="3" />
+      <Item value="match" priority="2" />
+      <Item value="captures" priority="0" />
+      <Item value="capture" priority="0" />
+      <Item value="val" priority="0" />
+      <Item value="AverageData`0" priority="2" />
+      <Item value="blobAverage" priority="0" />
+      <Item value="AverageDataTests`0" priority="0" />
+      <Item value="other" priority="0" />
+      <Item value="lineAverage" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
-      <Item value="That`0" priority="3" />
-      <Item value="IsNotNull`0" priority="0" />
+      <Item value="That`0" priority="19" />
+      <Item value="IsNotNull`0" priority="2" />
+      <Item value="Throws`1" priority="0" />
+      <Item value="True`0" priority="2" />
+      <Item value="Greater`0" priority="0" />
+      <Item value="IsNull`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Is">
-      <Item value="EqualTo`0" priority="2" />
+      <Item value="EqualTo`0" priority="15" />
+      <Item value="True" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Microsoft.WindowsAzure.CloudStorageAccount">
       <Item value="CreateCloudBlobClient`0" priority="0" />
@@ -144,7 +307,8 @@
       <Item value="CreateIfNotExist`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
-      <Item value="Add`0" priority="0" />
+      <Item value="Add`0" priority="2" />
+      <Item value="AddRange`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Uri">
       <Item value="ToString`0" priority="1" />
@@ -161,17 +325,22 @@
       <Item value="Name" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Guid">
-      <Item value="NewGuid`0" priority="0" />
+      <Item value="NewGuid`0" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Guid">
-      <Item value="ToString`0" priority="0" />
+      <Item value="ToString`0" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
-      <Item value="Replace`0" priority="0" />
+      <Item value="Replace`0" priority="1" />
+      <Item value="IndexOf`0" priority="1" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="Split`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Blobby.BlobProvider">
-      <Item value="CreateContainer`0" priority="0" />
+      <Item value="CreateContainer`0" priority="1" />
       <Item value="GetAccount`0" priority="0" />
+      <Item value="CreateBlob`0" priority="1" />
+      <Item value="GetAllBlobs`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Microsoft.WindowsAzure.StorageClient.CloudBlob">
       <Item value="Container" priority="0" />
@@ -185,6 +354,157 @@
     <ItemStatistics item="Qualified:Blobby.QueueProvider">
       <Item value="GetAccount`0" priority="0" />
       <Item value="CreateQueue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="2" />
+      <Item value="IsNullOrWhiteSpace`0" priority="0" />
+      <Item value="Format`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Utils.Regex">
+      <Item value="IsMatch`0" priority="2" />
+      <Item value="IsAscii`0" priority="2" />
+      <Item value="GetMatches`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.Regex">
+      <Item value="IsMatch`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="3" />
+      <Item value="NextDouble`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Utils.StringUtils">
+      <Item value="GetRandomAsciiIndex`0" priority="0" />
+      <Item value="GetRandomAlphaChar`0" priority="0" />
+      <Item value="GenerateRandomAlpha`0" priority="0" />
+      <Item value="Rand" priority="0" />
+      <Item value="GenerateRandomString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToChar`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Utils.NumberUtils">
+      <Item value="Rand" priority="0" />
+      <Item value="GetPositiveDecimal`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Out" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="Truncate`0" priority="0" />
+      <Item value="Round`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.TickerFactory">
+      <Item value="NumberUtils" priority="0" />
+      <Item value="CreateRandomTicker`0" priority="0" />
+      <Item value="StringUtils" priority="0" />
+      <Item value="CreateRandomIdentifier`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.QuoteFactory">
+      <Item value="TickerFactory" priority="0" />
+      <Item value="DateUtils" priority="0" />
+      <Item value="CreateRandomQuote`0" priority="2" />
+      <Item value="CreateListOfRandomQuotes`0" priority="0" />
+      <Item value="Rand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Utils.DateUtils">
+      <Item value="GetRandomDate`0" priority="1" />
+      <Item value="Rand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Ticks" priority="1" />
+      <Item value="AddSeconds`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalSeconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.Ticker">
+      <Item value="Identifier" priority="0" />
+      <Item value="Price" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Blobby.Utils.StringUtils">
+      <Item value="UPPERCASE_A" priority="0" />
+      <Item value="UPPERCASE_Z" priority="0" />
+      <Item value="LOWERCASE_A" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.ValidIdentifiers">
+      <Item value="AddRange`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.Identifiers">
+      <Item value="Count" priority="1" />
+      <Item value="Rand" priority="0" />
+      <Item value="GetRandom`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.Quote">
+      <Item value="ToString`0" priority="0" />
+      <Item value="QuoteDate" priority="0" />
+      <Item value="Identifier" priority="0" />
+      <Item value="Price" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="1" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.TestSetup.QuoteFileFactory">
+      <Item value="QuoteFactory" priority="0" />
+      <Item value="CreateRandomFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.QuoteFile">
+      <Item value="AddRange`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BlobbyTest.AssertHelper">
+      <Item value="IsAscii`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.TestSetup.StockDataWriter">
+      <Item value="SetUpSampleData`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.Questions.AverageStockPrice">
+      <Item value="BlobProvider" priority="0" />
+      <Item value="ContainerName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.Questions.ContainerAverageStockPrice">
+      <Item value="BlobProvider" priority="0" />
+      <Item value="ContainerName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Blob">
+      <Item value="Data" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.Questions.AverageStockPrice.AverageData">
+      <Item value="CalculatedAverage" priority="1" />
+      <Item value="DataPoints" priority="0" />
+      <Item value="Merge`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Blobby.Tickers.Questions.AverageStockPrice.LineAverageStockPrice">
+      <Item value="Line" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Regex">
+      <Item value="Matches`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.MatchCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Match">
+      <Item value="Captures" priority="2" />
+      <Item value="Groups" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Group">
+      <Item value="Captures" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.CaptureCollection">
+      <Item value="Count" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

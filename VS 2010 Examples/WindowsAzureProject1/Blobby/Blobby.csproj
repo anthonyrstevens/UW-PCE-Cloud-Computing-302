@@ -51,6 +51,23 @@
     <Compile Include="ProviderBase.cs" />
     <Compile Include="QueueMessage.cs" />
     <Compile Include="QueueProvider.cs" />
+    <Compile Include="Tickers\Questions\AverageStockPrice\AverageData.cs" />
+    <Compile Include="Tickers\Questions\AverageStockPrice\ContainerAverageStockPrice.cs" />
+    <Compile Include="Tickers\Questions\AverageStockPrice\BlobAverageStockPrice.cs" />
+    <Compile Include="Tickers\Questions\AverageStockPrice\LineAverageStockPrice.cs" />
+    <Compile Include="Tickers\Quote.cs" />
+    <Compile Include="Tickers\QuoteFactory.cs" />
+    <Compile Include="Tickers\QuoteFile.cs" />
+    <Compile Include="Tickers\TestSetup\QuoteFileFactory.cs" />
+    <Compile Include="Tickers\TestSetup\StockDataWriter.cs" />
+    <Compile Include="Tickers\Ticker.cs" />
+    <Compile Include="Tickers\TickerFactory.cs" />
+    <Compile Include="Tickers\Identifiers.cs" />
+    <Compile Include="Utils\DateUtils.cs" />
+    <Compile Include="Utils\DecimalExtensions.cs" />
+    <Compile Include="Utils\NumberUtils.cs" />
+    <Compile Include="Utils\Regex.cs" />
+    <Compile Include="Utils\StringUtils.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
