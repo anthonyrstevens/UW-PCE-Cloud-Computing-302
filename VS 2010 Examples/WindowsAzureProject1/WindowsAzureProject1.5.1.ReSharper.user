@@ -29,7 +29,6 @@
       <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:TestSetup/f:QuoteFileFactory.cs" caret="444" fromTop="13" />
       <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/f:QuoteFactoryTests.cs" caret="1255" fromTop="14" />
       <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/f:QuoteFactory.cs" caret="1315" fromTop="9" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="299" fromTop="13" />
       <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:AverageData.cs" caret="431" fromTop="13" />
       <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/d:TestSetupTests/d:AverageStockPriceTests/f:AverageDataTests.cs" caret="718" fromTop="15" />
       <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:ContainerAverageStockPrice.cs" caret="898" fromTop="7" />
@@ -38,12 +37,12 @@
       <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Utils/f:Regex.cs" caret="567" fromTop="17" />
       <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="5433" fromTop="11" />
       <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/d:TestSetupTests/f:OneTimeSetup.cs" caret="714" fromTop="3" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="171" fromTop="9" />
     </RecentFiles>
     <RecentEdits>
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:LineAverageStockPrice.cs" caret="654" fromTop="14" />
       <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:LineAverageStockPrice.cs" caret="541" fromTop="5" />
       <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:BlobAverageStockPrice.cs" caret="768" fromTop="20" />
-      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="494" fromTop="16" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="524" fromTop="16" />
       <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:ContainerAverageStockPrice.cs" caret="1002" fromTop="11" />
       <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:LineAverageStockPrice.cs" caret="195" fromTop="6" />
       <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/d:Tickers/d:Questions/d:AverageStockPrice/f:ContainerAverageStockPrice.cs" caret="146" fromTop="6" />
@@ -70,6 +69,7 @@
       <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="5271" fromTop="7" />
       <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:UtilsTests/f:RegexTests.cs" caret="5533" fromTop="12" />
       <File id="1031096C-9D00-48DF-93AE-D687D4A3D890/d:TestCases/d:TickersTests/d:TestSetupTests/f:OneTimeSetup.cs" caret="1053" fromTop="11" />
+      <File id="A3B4CAC1-1DB6-47F2-AE1F-18640923D771/f:Blob.cs" caret="171" fromTop="9" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
